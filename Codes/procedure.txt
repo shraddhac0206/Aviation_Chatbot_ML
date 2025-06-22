@@ -1,0 +1,8 @@
+#Run the code
+
+open termianl 
+
+data.py is the main code file 
+
+run "streamlit run data.py" in terminal 
+
